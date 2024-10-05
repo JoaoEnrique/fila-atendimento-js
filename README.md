@@ -1,5 +1,8 @@
 # fila-senha
 
+![image](https://github.com/user-attachments/assets/fa625ac5-d6ce-43be-b19c-b33c062ada1d)
+
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
